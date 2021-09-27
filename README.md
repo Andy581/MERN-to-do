@@ -1,7 +1,7 @@
 # MERN-to-do
 To do application using MERN stack
 
-##Run
+## Run
 ```
 //Start local server on port 4000
 cd server
